@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the website of Zhifeng Kong.
+This is the website of Zhifeng Kong. 
+
+[My things](https://www.google.com/)
 
 A data-driven personal website
 ======
